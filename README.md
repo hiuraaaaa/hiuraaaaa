@@ -95,4 +95,133 @@
     border-radius: 18px;
     padding: 18px;
     border: 1px solid rgba(255,255,255,0.12);
-    box-shadow: 0 8px 20px rgba(0,0,0
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+    text-align: center;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+    <div style="margin-top: 6px; font-size: 14px;">Node.js</div>
+  </div>
+
+  <!-- JavaScript -->
+  <div style="
+    display: inline-block;
+    margin: 8px;
+    backdrop-filter: blur(12px);
+    background: rgba(255,255,255,0.05);
+    border-radius: 18px;
+    padding: 18px;
+    border: 1px solid rgba(255,255,255,0.12);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+    text-align: center;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+    <div style="margin-top: 6px; font-size: 14px;">JavaScript</div>
+  </div>
+
+  <!-- Next.js -->
+  <div style="
+    display: inline-block;
+    margin: 8px;
+    backdrop-filter: blur(12px);
+    background: rgba(255,255,255,0.05);
+    border-radius: 18px;
+    padding: 18px;
+    border: 1px solid rgba(255,255,255,0.12);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+    text-align: center;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
+    <div style="margin-top: 6px; font-size: 14px;">Next.js</div>
+  </div>
+
+  <!-- TailwindCSS -->
+  <div style="
+    display: inline-block;
+    margin: 8px;
+    backdrop-filter: blur(12px);
+    background: rgba(255,255,255,0.05);
+    border-radius: 18px;
+    padding: 18px;
+    border: 1px solid rgba(255,255,255,0.12);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+    text-align: center;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48"/>
+    <div style="margin-top: 6px; font-size: 14px;">TailwindCSS</div>
+  </div>
+
+  <!-- SQLite -->
+  <div style="
+    display: inline-block;
+    margin: 8px;
+    backdrop-filter: blur(12px);
+    background: rgba(255,255,255,0.05);
+    border-radius: 18px;
+    padding: 18px;
+    border: 1px solid rgba(255,255,255,0.12);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+    text-align: center;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/>
+    <div style="margin-top: 6px; font-size: 14px;">SQLite</div>
+  </div>
+
+  <!-- Telegraf -->
+  <div style="
+    display: inline-block;
+    margin: 8px;
+    backdrop-filter: blur(12px);
+    background: rgba(255,255,255,0.05);
+    border-radius: 18px;
+    padding: 18px;
+    border: 1px solid rgba(255,255,255,0.12);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+    text-align: center;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48"/>
+    <div style="margin-top: 6px; font-size: 14px;">Telegraf</div>
+  </div>
+
+  <!-- Baileys -->
+  <div style="
+    display: inline-block;
+    margin: 8px;
+    backdrop-filter: blur(12px);
+    background: rgba(255,255,255,0.05);
+    border-radius: 18px;
+    padding: 18px;
+    border: 1px solid rgba(255,255,255,0.12);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+    text-align: center;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="48"/>
+    <div style="margin-top: 6px; font-size: 14px;">Baileys</div>
+  </div>
+
+  <!-- Vercel -->
+  <div style="
+    display: inline-block;
+    margin: 8px;
+    backdrop-filter: blur(12px);
+    background: rgba(255,255,255,0.05);
+    border-radius: 18px;
+    padding: 18px;
+    border: 1px solid rgba(255,255,255,0.12);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+    text-align: center;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/>
+    <div style="margin-top: 6px; font-size: 14px;">Vercel</div>
+  </div>
+
+</div>
+
+<br/>
+
+<!-- DEV PHILOSOPHY -->
+<h3 align="center">🌙 Dev Philosophy</h3>
+
+<p align="center" style="font-size: 14px; opacity: 0.85;">
+  Build → Break → Fix → Repeat. <br/>
+  Minimal code, maximum impact. Always learning. Always shipping.
+</p>
