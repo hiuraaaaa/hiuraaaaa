@@ -1,29 +1,30 @@
-# Robin here ☕  
-Full-time tinkerer, part-time wizard.
+<h1 align="center">Robin ☕</h1>
 
-> I create stuff that automates life.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full-time+tinkerer;Part-time+wizard;I+create+stuff+that+automates+life" />
+</p>
 
 ---
 
-### 🛠 Tech Stack  
-- **Node.js** • JavaScript  
-- **Next.js** • TailwindCSS  
+### ⚡ What I Do
+- Build AI-powered Telegram & WhatsApp bots  
+- Create automation tools & lightweight APIs  
+- Develop dashboards and control panels on Vercel  
+- Code & deploy straight from Android (Termux)  
+- Experiment with AI models and custom agents  
+
+---
+
+### 🛠 Tech Stack
+- **Node.js**, JavaScript  
+- **Next.js**, TailwindCSS  
 - **SQLite (better-sqlite3)**  
-- **Telegram Bots (Telegraf)**  
-- **WhatsApp Bots (Baileys)**  
-- **Vercel** • **Termux** • **Pterodactyl**
+- **Telegraf (Telegram Bot)**  
+- **Baileys (WhatsApp Bot)**  
+- **Vercel**, Termux, Pterodactyl  
 
 ---
 
-### ⚡ My Playground  
-- Building AI-powered Telegram & WhatsApp bots  
-- Developing lightweight APIs & automation tools  
-- Creating dashboards and control panels on Vercel  
-- Deploying and coding directly from Android (Termux gang)  
-- Experimenting with AI models and custom agents  
-
----
-
-### ✨ About Me  
-Always learning. Always shipping.  
-If it can be automated, I’ll probably build it.
+### 🌱 Philosophy  
+Minimal code. Maximum impact.  
+Always learning. Always shipping.
