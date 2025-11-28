@@ -1,7 +1,6 @@
-<!-- ANIMATED BANNER (Elaina) -->
+<!-- ANIMATED MINECRAFT BANNER -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/ae149e01fac5905ca59667612325b6295d1951b9db9ff529bad4f972ae17d8e8/68747470733a2f2f692e6962622e636f2f357232574a5a792f456c61696e612d576974682d4566666563746976652d507974686f6e2d312d322e77656270" 
-       width="100%" alt="Banner"/>
+  <img src="https://camo.githubusercontent.com/2160c728bc92de2d764899f57537657f63769aa61757d83a9235fa36e0f22d07/68747470733a2f2f692e696d6775722e636f6d2f314a6b307130752e676966" width="100%" alt="Minecraft Banner"/>
 </p>
 
 <br/>
@@ -66,162 +65,39 @@
   <h3 align="center">⚡ What I Do</h3>
 
   <p align="left">
-    - Build AI-powered <b>Telegram</b> & <b>WhatsApp</b> bots  <br/>
-    - Develop automation tools & lightweight REST APIs  <br/>
-    - Create dashboards & control panels on <b>Vercel</b>  <br/>
-    - Code + deploy directly from <b>Android</b> (Termux gang)  <br/>
-    - Experiment with AI models, agents, and custom logic  
+
+  - Build AI-powered <b>Telegram</b> & <b>WhatsApp</b> bots  
+  - Develop automation tools & lightweight REST APIs  
+  - Create dashboards & control panels on <b>Vercel</b>  
+  - Code + deploy directly from <b>Android</b> (Termux gang)  
+  - Experiment with AI models, agents, and custom logic  
+
   </p>
 
   <br/>
 
-  <!-- TECH STACK TITLE -->
+  <!-- TECH STACK -->
   <h3 align="center">🛠 Tech Stack</h3>
 
+  <p align="center">
+    <b>Core:</b> Node.js · JavaScript · Next.js · TailwindCSS  
+    <br/>
+    <b>Database:</b> SQLite (better-sqlite3) · Supabase  
+    <br/>
+    <b>Bots:</b> Telegraf (Telegram) · Baileys (WhatsApp)  
+    <br/>
+    <b>DevOps:</b> Vercel · Pterodactyl · Termux  
+  </p>
+
+  <br/>
+
+  <!-- PHILOSOPHY -->
+  <h3 align="center">🌙 Dev Philosophy</h3>
+
+  <p align="center" style="font-size: 14px; opacity: 0.85;">
+    Build → Break → Fix → Repeat. <br/>
+    Minimal code, maximum impact. Always learning. Always shipping.
+  </p>
+
+  </div>
 </div>
-</div>
-
-<br/>
-
-<!-- STACK CARDS (NO TABLE, SAFE) -->
-<div align="center">
-
-  <!-- Node.js -->
-  <div style="
-    display: inline-block;
-    margin: 8px;
-    backdrop-filter: blur(12px);
-    background: rgba(255,255,255,0.05);
-    border-radius: 18px;
-    padding: 18px;
-    border: 1px solid rgba(255,255,255,0.12);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-    text-align: center;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
-    <div style="margin-top: 6px; font-size: 14px;">Node.js</div>
-  </div>
-
-  <!-- JavaScript -->
-  <div style="
-    display: inline-block;
-    margin: 8px;
-    backdrop-filter: blur(12px);
-    background: rgba(255,255,255,0.05);
-    border-radius: 18px;
-    padding: 18px;
-    border: 1px solid rgba(255,255,255,0.12);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-    text-align: center;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-    <div style="margin-top: 6px; font-size: 14px;">JavaScript</div>
-  </div>
-
-  <!-- Next.js -->
-  <div style="
-    display: inline-block;
-    margin: 8px;
-    backdrop-filter: blur(12px);
-    background: rgba(255,255,255,0.05);
-    border-radius: 18px;
-    padding: 18px;
-    border: 1px solid rgba(255,255,255,0.12);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-    text-align: center;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
-    <div style="margin-top: 6px; font-size: 14px;">Next.js</div>
-  </div>
-
-  <!-- TailwindCSS -->
-  <div style="
-    display: inline-block;
-    margin: 8px;
-    backdrop-filter: blur(12px);
-    background: rgba(255,255,255,0.05);
-    border-radius: 18px;
-    padding: 18px;
-    border: 1px solid rgba(255,255,255,0.12);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-    text-align: center;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48"/>
-    <div style="margin-top: 6px; font-size: 14px;">TailwindCSS</div>
-  </div>
-
-  <!-- SQLite -->
-  <div style="
-    display: inline-block;
-    margin: 8px;
-    backdrop-filter: blur(12px);
-    background: rgba(255,255,255,0.05);
-    border-radius: 18px;
-    padding: 18px;
-    border: 1px solid rgba(255,255,255,0.12);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-    text-align: center;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/>
-    <div style="margin-top: 6px; font-size: 14px;">SQLite</div>
-  </div>
-
-  <!-- Telegraf -->
-  <div style="
-    display: inline-block;
-    margin: 8px;
-    backdrop-filter: blur(12px);
-    background: rgba(255,255,255,0.05);
-    border-radius: 18px;
-    padding: 18px;
-    border: 1px solid rgba(255,255,255,0.12);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-    text-align: center;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48"/>
-    <div style="margin-top: 6px; font-size: 14px;">Telegraf</div>
-  </div>
-
-  <!-- Baileys -->
-  <div style="
-    display: inline-block;
-    margin: 8px;
-    backdrop-filter: blur(12px);
-    background: rgba(255,255,255,0.05);
-    border-radius: 18px;
-    padding: 18px;
-    border: 1px solid rgba(255,255,255,0.12);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-    text-align: center;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="48"/>
-    <div style="margin-top: 6px; font-size: 14px;">Baileys</div>
-  </div>
-
-  <!-- Vercel -->
-  <div style="
-    display: inline-block;
-    margin: 8px;
-    backdrop-filter: blur(12px);
-    background: rgba(255,255,255,0.05);
-    border-radius: 18px;
-    padding: 18px;
-    border: 1px solid rgba(255,255,255,0.12);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-    text-align: center;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/>
-    <div style="margin-top: 6px; font-size: 14px;">Vercel</div>
-  </div>
-
-</div>
-
-<br/>
-
-<!-- DEV PHILOSOPHY -->
-<h3 align="center">🌙 Dev Philosophy</h3>
-
-<p align="center" style="font-size: 14px; opacity: 0.85;">
-  Build → Break → Fix → Repeat. <br/>
-  Minimal code, maximum impact. Always learning. Always shipping.
-</p>
