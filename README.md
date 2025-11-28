@@ -65,28 +65,30 @@
   <!-- WHAT I DO -->
   <h3 align="center">⚡ What I Do</h3>
 
-  - Build AI-powered <b>Telegram</b> & <b>WhatsApp</b> bots  
-  - Develop automation tools & lightweight REST APIs  
-  - Create dashboards & control panels on <b>Vercel</b>  
-  - Code + deploy directly from <b>Android</b> (Termux gang)  
-  - Experiment with AI models, agents, and custom logic  
+  <p align="left">
+    - Build AI-powered <b>Telegram</b> & <b>WhatsApp</b> bots  <br/>
+    - Develop automation tools & lightweight REST APIs  <br/>
+    - Create dashboards & control panels on <b>Vercel</b>  <br/>
+    - Code + deploy directly from <b>Android</b> (Termux gang)  <br/>
+    - Experiment with AI models, agents, and custom logic  
+  </p>
 
   <br/>
 
   <!-- TECH STACK -->
   <h3 align="center">🛠 Tech Stack</h3>
 
-  </div>
+</div>
 </div>
 
 <br/>
 
-### 🛠 Tech Stack
-
+<!-- STACK CARDS TABLE 1 -->
 <div align="center">
   <table>
     <tr>
-      <!-- Card 1 -->
+
+      <!-- Node.js -->
       <td align="center" width="150" style="
         backdrop-filter: blur(12px);
         background: rgba(255,255,255,0.05);
@@ -99,7 +101,7 @@
         <div style="margin-top: 6px; font-size: 14px;">Node.js</div>
       </td>
 
-      <!-- Card 2 -->
+      <!-- JavaScript -->
       <td align="center" width="150" style="
         backdrop-filter: blur(12px);
         background: rgba(255,255,255,0.05);
@@ -112,7 +114,7 @@
         <div style="margin-top: 6px; font-size: 14px;">JavaScript</div>
       </td>
 
-      <!-- Card 3 -->
+      <!-- Next.js -->
       <td align="center" width="150" style="
         backdrop-filter: blur(12px);
         background: rgba(255,255,255,0.05);
@@ -125,7 +127,7 @@
         <div style="margin-top: 6px; font-size: 14px;">Next.js</div>
       </td>
 
-      <!-- Card 4 -->
+      <!-- TailwindCSS -->
       <td align="center" width="150" style="
         backdrop-filter: blur(12px);
         background: rgba(255,255,255,0.05);
@@ -137,15 +139,18 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48"/>
         <div style="margin-top: 6px; font-size: 14px;">TailwindCSS</div>
       </td>
+
     </tr>
   </table>
 </div>
 
 <br/>
 
+<!-- STACK CARDS TABLE 2 -->
 <div align="center">
   <table>
     <tr>
+
       <!-- SQLite -->
       <td align="center" width="150" style="
         backdrop-filter: blur(12px);
@@ -197,6 +202,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/>
         <div style="margin-top: 6px; font-size: 14px;">Vercel</div>
       </td>
+
     </tr>
   </table>
 </div>
@@ -208,6 +214,5 @@
 
 <p align="center" style="font-size: 14px; opacity: 0.85;">
   Build → Break → Fix → Repeat. <br/>
-  If it can be automated, I'll probably try to build it. <br/>
-  Minimal UI, maximum utility.
+  Minimal code, maximum impact. Always learning. Always shipping.
 </p>
