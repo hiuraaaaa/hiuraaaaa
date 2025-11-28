@@ -1,103 +1,64 @@
-<!-- ANIMATED MINECRAFT BANNER -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2160c728bc92de2d764899f57537657f63769aa61757d83a9235fa36e0f22d07/68747470733a2f2f692e696d6775722e636f6d2f314a6b307130752e676966" width="100%" alt="Minecraft Banner"/>
-</p>
-
-<br/>
-
-<!-- TITLE -->
 <div align="center">
 
-  <h1>Robin ☕</h1>
+# ✨ Hi there! 💜 I'm Hiura
 
-  <!-- Typing Animation -->
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&pause=1500&width=500&lines=Full-time+tinkerer;Part-time+wizard;I+create+stuff+that+automates+life;Building+bots+%26+automation" 
-    alt="Typing SVG" 
-  />
+![Banner](assets/bannerProfile.gif)
+
+### 🚀 Software Developer
 
 </div>
 
-<br/>
+## 🛠 Technical Skills
+<table>
+  <tr>
+    <td>
+      
+### 💻 Languages
+---
+<img src="https://img.shields.io/badge/Python-8B5FBF?style=flat&logo=python&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/Go-7A4BA3?style=flat&logo=go&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/C%23-6A3787?style=flat&logo=c-sharp&logoColor=white" height="30"><br>
+    </td>
+    <td>
 
-<!-- GRADIENT DIVIDER -->
-<div align="center">
-  <div style="
-    height: 3px;
-    width: 70%;
-    max-width: 520px;
-    background: linear-gradient(90deg, #6366f1, #06b6d4, #22c55e);
-    border-radius: 999px;
-  "></div>
-</div>
+### 🔧 Technologies
+---
+<img src="https://img.shields.io/badge/PostgreSQL-8B5FBF?style=flat&logo=postgresql&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/Git-7A4BA3?style=flat&logo=git&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/Docker-6A3787?style=flat&logo=docker&logoColor=white" height="30"><br>
+    </td>
+    <td>
 
-<br/>
+### ⚡ Frameworks
+---
+<img src="https://img.shields.io/badge/FastAPI-8B5FBF?style=flat&logo=fastapi&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/GORM-7A4BA3?style=flat&logo=go&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/.NET-6A3787?style=flat&logo=dotnet&logoColor=white" height="30"><br>
+    </td>
+    <td>
 
-<!-- GLASS CARD MAIN -->
-<div align="center">
-  <div style="
-    max-width: 750px;
-    padding: 26px 30px;
-    border-radius: 24px;
-    background: rgba(15, 23, 42, 0.75);
-    border: 1px solid rgba(148, 163, 184, 0.35);
-    box-shadow: 0 18px 45px rgba(15, 23, 42, 0.75);
-    backdrop-filter: blur(14px);
-  ">
+### 🛠️ Development Tools
+---
+<img src="https://img.shields.io/badge/VSCode-8B5FBF?style=flat&logo=visual-studio-code&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/curl-7A4BA3?style=flat&logo=curl&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/Linux-6A3787?style=flat&logo=linux&logoColor=white" height="30"><br>
+    </td>
+  </tr>
+</table>
 
-  <!-- Animated Icon -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 14px;">
-    <img 
-      src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
-      width="42" 
-      style="border-radius: 999px;"
-    />
-    <span style="font-size: 14px; opacity: 0.8;">Crafting automation & AI-powered tools</span>
-  </div>
+## 🔥 Current Focus
 
-  <p align="center" style="font-size: 14px; opacity: 0.9;">
-    I like building bots, dashboards, and tiny services that just work.
-  </p>
+- 🎯 **Deep dive into OOP principles** - design patterns and architecture
+- 🤖 **AI integration and training** - ML models and neural networks in production  
+- 🎮 **Game development** - game engines and gamedev architecture
 
-  <br/>
+## 🎯 Interests & Hobbies
 
-  <!-- WHAT I DO -->
-  <h3 align="center">⚡ What I Do</h3>
+- 🎮 **Gaming** - competitive strategy and MOBA titles
+- 🎵 **Music** - vibe music and chill beats  
+- 🌱 **Learning** - passionate about continuous growth and new skills
+- 📺 **Anime** - enjoying various anime genres and stories
 
-  <p align="left">
+## 📫 Connect With Me
 
-  - Build AI-powered <b>Telegram</b> & <b>WhatsApp</b> bots  
-  - Develop automation tools & lightweight REST APIs  
-  - Create dashboards & control panels on <b>Vercel</b>  
-  - Code + deploy directly from <b>Android</b> (Termux gang)  
-  - Experiment with AI models, agents, and custom logic  
-
-  </p>
-
-  <br/>
-
-  <!-- TECH STACK -->
-  <h3 align="center">🛠 Tech Stack</h3>
-
-  <p align="center">
-    <b>Core:</b> Node.js · JavaScript · Next.js · TailwindCSS  
-    <br/>
-    <b>Database:</b> SQLite (better-sqlite3) · Supabase  
-    <br/>
-    <b>Bots:</b> Telegraf (Telegram) · Baileys (WhatsApp)  
-    <br/>
-    <b>DevOps:</b> Vercel · Pterodactyl · Termux  
-  </p>
-
-  <br/>
-
-  <!-- PHILOSOPHY -->
-  <h3 align="center">🌙 Dev Philosophy</h3>
-
-  <p align="center" style="font-size: 14px; opacity: 0.85;">
-    Build → Break → Fix → Repeat. <br/>
-    Minimal code, maximum impact. Always learning. Always shipping.
-  </p>
-
-  </div>
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-8B5FBF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mipa_senpai)
