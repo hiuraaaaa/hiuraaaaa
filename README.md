@@ -1,6 +1,7 @@
-<!-- ANIMATED MINECRAFT BANNER -->
+<!-- ANIMATED BANNER (Elaina) -->
 <p align="center">
-  <img src="https://i.imgur.com/1Jk0q0u.gif" width="100%" alt="Minecraft Banner"/>
+  <img src="https://camo.githubusercontent.com/ae149e01fac5905ca59667612325b6295d1951b9db9ff529bad4f972ae17d8e8/68747470733a2f2f692e6962622e636f2f357232574a5a792f456c61696e612d576974682d4566666563746976652d507974686f6e2d312d322e77656270" 
+       width="100%" alt="Banner"/>
 </p>
 
 <br/>
@@ -64,107 +65,137 @@
   <!-- WHAT I DO -->
   <h3 align="center">⚡ What I Do</h3>
 
-  <p align="left">
-
   - Build AI-powered <b>Telegram</b> & <b>WhatsApp</b> bots  
   - Develop automation tools & lightweight REST APIs  
   - Create dashboards & control panels on <b>Vercel</b>  
   - Code + deploy directly from <b>Android</b> (Termux gang)  
   - Experiment with AI models, agents, and custom logic  
 
-  </p>
-
   <br/>
 
   <!-- TECH STACK -->
   <h3 align="center">🛠 Tech Stack</h3>
 
-  <p align="center">
-    <b>Core:</b> Node.js · JavaScript · Next.js · TailwindCSS  
-    <br/>
-    <b>Database:</b> SQLite (better-sqlite3) · Supabase  
-    <br/>
-    <b>Bots:</b> Telegraf (Telegram) · Baileys (WhatsApp)  
-    <br/>
-    <b>DevOps:</b> Vercel · Pterodactyl · Termux  
-  </p>
-
-  <br/>
-
-  <!-- PHILOSOPHY -->
-  <h3 align="center">🌙 Dev Philosophy</h3>
-
-  <p align="center" style="font-size: 14px; opacity: 0.85;">
-    Build → Break → Fix → Repeat. <br/>
-    Minimal code, maximum impact. Always learning. Always shipping.
-  </p>
-
-  </div>
 </div>
-
-<br/><br/>
-
-<!-- NEON ACTIVITY GRAPH & STATS -->
-<h3 align="center">📊 Activity & Stats</h3>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=38bdf8&line=22c55e&point=a855f7&area=true&hide_border=true" 
-    alt="Robin's Activity Graph" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" 
-    alt="Robin's GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000" 
-    alt="Top Langs" 
-  />
-</p>
+</div>
 
 <br/>
 
-<!-- FEATURED PROJECTS -->
-<h3 align="center">🚀 Featured Projects</h3>
+### 🛠 Tech Stack
 
 <div align="center">
   <table>
     <tr>
-      <td width="33%">
-        <h4>🤖 AI Telegram Bot Panel</h4>
-        <p style="font-size: 13px;">
-          Control panel for managing AI-powered Telegram bots, logs, and settings.  
-          Built with Next.js, Node.js, SQLite, and Vercel.
-        </p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/telegram-bot-panel">
-          🔗 View Repository
-        </a>
+      <!-- Card 1 -->
+      <td align="center" width="150" style="
+        backdrop-filter: blur(12px);
+        background: rgba(255,255,255,0.05);
+        border-radius: 18px;
+        padding: 18px;
+        border: 1px solid rgba(255,255,255,0.12);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+      ">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+        <div style="margin-top: 6px; font-size: 14px;">Node.js</div>
       </td>
-      <td width="33%">
-        <h4>🛰 Deployer Pro</h4>
-        <p style="font-size: 13px;">
-          Web dashboard to upload, configure, and deploy projects easily  
-          (ideal for static sites, bots, and APIs).
-        </p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/deployer-pro">
-          🔗 View Repository
-        </a>
+
+      <!-- Card 2 -->
+      <td align="center" width="150" style="
+        backdrop-filter: blur(12px);
+        background: rgba(255,255,255,0.05);
+        border-radius: 18px;
+        padding: 18px;
+        border: 1px solid rgba(255,255,255,0.12);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+      ">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+        <div style="margin-top: 6px; font-size: 14px;">JavaScript</div>
       </td>
-      <td width="33%">
-        <h4>🎮 MineClips Automator</h4>
-        <p style="font-size: 13px;">
-          Helper tools for Minecraft content workflows: clipping, templating,  
-          and automation for short-form content.
-        </p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/mineclips-tools">
-          🔗 View Repository
-        </a>
+
+      <!-- Card 3 -->
+      <td align="center" width="150" style="
+        backdrop-filter: blur(12px);
+        background: rgba(255,255,255,0.05);
+        border-radius: 18px;
+        padding: 18px;
+        border: 1px solid rgba(255,255,255,0.12);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+      ">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
+        <div style="margin-top: 6px; font-size: 14px;">Next.js</div>
+      </td>
+
+      <!-- Card 4 -->
+      <td align="center" width="150" style="
+        backdrop-filter: blur(12px);
+        background: rgba(255,255,255,0.05);
+        border-radius: 18px;
+        padding: 18px;
+        border: 1px solid rgba(255,255,255,0.12);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+      ">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48"/>
+        <div style="margin-top: 6px; font-size: 14px;">TailwindCSS</div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- SQLite -->
+      <td align="center" width="150" style="
+        backdrop-filter: blur(12px);
+        background: rgba(255,255,255,0.05);
+        border-radius: 18px;
+        padding: 18px;
+        border: 1px solid rgba(255,255,255,0.12);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+      ">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/>
+        <div style="margin-top: 6px; font-size: 14px;">SQLite</div>
+      </td>
+
+      <!-- Telegraf -->
+      <td align="center" width="150" style="
+        backdrop-filter: blur(12px);
+        background: rgba(255,255,255,0.05);
+        border-radius: 18px;
+        padding: 18px;
+        border: 1px solid rgba(255,255,255,0.12);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+      ">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48"/>
+        <div style="margin-top: 6px; font-size: 14px;">Telegraf</div>
+      </td>
+
+      <!-- Baileys -->
+      <td align="center" width="150" style="
+        backdrop-filter: blur(12px);
+        background: rgba(255,255,255,0.05);
+        border-radius: 18px;
+        padding: 18px;
+        border: 1px solid rgba(255,255,255,0.12);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+      ">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="48"/>
+        <div style="margin-top: 6px; font-size: 14px;">Baileys</div>
+      </td>
+
+      <!-- Vercel -->
+      <td align="center" width="150" style="
+        backdrop-filter: blur(12px);
+        background: rgba(255,255,255,0.05);
+        border-radius: 18px;
+        padding: 18px;
+        border: 1px solid rgba(255,255,255,0.12);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+      ">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/>
+        <div style="margin-top: 6px; font-size: 14px;">Vercel</div>
       </td>
     </tr>
   </table>
