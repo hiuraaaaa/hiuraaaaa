@@ -1,106 +1,171 @@
-<!-- HEADER PROFILE -->
+<!-- ANIMATED MINECRAFT BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/1Jk0q0u.gif" width="100%" alt="Minecraft Banner"/>
+</p>
+
+<br/>
+
+<!-- TITLE -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://i.imgur.com/your-left-avatar.png" width="120" style="border-radius: 16px;" />
-      </td>
-      <td>
-        <h1>Hi there <span>👋</span></h1>
-        <p>
-          I'm <b>Robin</b> — a tinkerer who loves building bots, automation tools, and dashboards.  
-          Currently playing with <b>Node.js</b>, <b>Next.js</b>, <b>SQLite</b>, and a lot of <b>Telegram/WhatsApp bots</b>.
-        </p>
-      </td>
-      <td>
-        <img src="https://i.imgur.com/your-right-avatar.png" width="120" style="border-radius: 16px;" />
-      </td>
-    </tr>
-  </table>
+
+  <h1>Robin ☕</h1>
+
+  <!-- Typing Animation -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&pause=1500&width=500&lines=Full-time+tinkerer;Part-time+wizard;I+create+stuff+that+automates+life;Building+bots+%26+automation" 
+    alt="Typing SVG" 
+  />
+
 </div>
 
----
+<br/>
 
-### 👤 About Me
+<!-- GRADIENT DIVIDER -->
+<div align="center">
+  <div style="
+    height: 3px;
+    width: 70%;
+    max-width: 520px;
+    background: linear-gradient(90deg, #6366f1, #06b6d4, #22c55e);
+    border-radius: 999px;
+  "></div>
+</div>
 
-- 🔧 I create bots, panels, and automation tools  
-- 📦 Love deploying stuff on <b>Vercel</b> & <b>Pterodactyl</b>  
-- 📱 Often code & debug straight from <b>Android / Termux</b>  
-- 🧠 Always experimenting with AI models & custom agents  
+<br/>
 
----
+<!-- GLASS CARD MAIN -->
+<div align="center">
+  <div style="
+    max-width: 750px;
+    padding: 26px 30px;
+    border-radius: 24px;
+    background: rgba(15, 23, 42, 0.75);
+    border: 1px solid rgba(148, 163, 184, 0.35);
+    box-shadow: 0 18px 45px rgba(15, 23, 42, 0.75);
+    backdrop-filter: blur(14px);
+  ">
 
-### 🛠 Tech & Tools
+  <!-- Animated Icon -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 14px;">
+    <img 
+      src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
+      width="42" 
+      style="border-radius: 999px;"
+    />
+    <span style="font-size: 14px; opacity: 0.8;">Crafting automation & AI-powered tools</span>
+  </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Telegraf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pterodactyl-1C1E26?style=for-the-badge&logo=pterodactyl&logoColor=7289DA"/>
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
+  <p align="center" style="font-size: 14px; opacity: 0.9;">
+    I like building bots, dashboards, and tiny services that just work.
+  </p>
 
----
+  <br/>
 
-### 📊 GitHub Stats
+  <!-- WHAT I DO -->
+  <h3 align="center">⚡ What I Do</h3>
+
+  <p align="left">
+
+  - Build AI-powered <b>Telegram</b> & <b>WhatsApp</b> bots  
+  - Develop automation tools & lightweight REST APIs  
+  - Create dashboards & control panels on <b>Vercel</b>  
+  - Code + deploy directly from <b>Android</b> (Termux gang)  
+  - Experiment with AI models, agents, and custom logic  
+
+  </p>
+
+  <br/>
+
+  <!-- TECH STACK -->
+  <h3 align="center">🛠 Tech Stack</h3>
+
+  <p align="center">
+    <b>Core:</b> Node.js · JavaScript · Next.js · TailwindCSS  
+    <br/>
+    <b>Database:</b> SQLite (better-sqlite3) · Supabase  
+    <br/>
+    <b>Bots:</b> Telegraf (Telegram) · Baileys (WhatsApp)  
+    <br/>
+    <b>DevOps:</b> Vercel · Pterodactyl · Termux  
+  </p>
+
+  <br/>
+
+  <!-- PHILOSOPHY -->
+  <h3 align="center">🌙 Dev Philosophy</h3>
+
+  <p align="center" style="font-size: 14px; opacity: 0.85;">
+    Build → Break → Fix → Repeat. <br/>
+    Minimal code, maximum impact. Always learning. Always shipping.
+  </p>
+
+  </div>
+</div>
+
+<br/><br/>
+
+<!-- NEON ACTIVITY GRAPH & STATS -->
+<h3 align="center">📊 Activity & Stats</h3>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
-    height="160"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=38bdf8&line=22c55e&point=a855f7&area=true&hide_border=true" 
+    alt="Robin's Activity Graph" 
   />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" 
+    alt="Robin's GitHub Stats" 
+  />
+</p>
 
-### ⭐ Top Repositories
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000" 
+    alt="Top Langs" 
+  />
+</p>
+
+<br/>
+
+<!-- FEATURED PROJECTS -->
+<h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h4>🤖 Telegram AI Bot Panel</h4>
+      <td width="33%">
+        <h4>🤖 AI Telegram Bot Panel</h4>
         <p style="font-size: 13px;">
-          Control panel to manage AI bots, logs, and settings.  
+          Control panel for managing AI-powered Telegram bots, logs, and settings.  
           Built with Next.js, Node.js, SQLite, and Vercel.
         </p>
         <a href="https://github.com/YOUR_GITHUB_USERNAME/telegram-bot-panel">
-          🔗 View repository
+          🔗 View Repository
         </a>
       </td>
-      <td width="50%">
-        <h4>🚀 Deployer Pro</h4>
+      <td width="33%">
+        <h4>🛰 Deployer Pro</h4>
         <p style="font-size: 13px;">
-          Simple web UI to upload & deploy projects quickly  
-          — perfect for static sites, bots, and APIs.
+          Web dashboard to upload, configure, and deploy projects easily  
+          (ideal for static sites, bots, and APIs).
         </p>
         <a href="https://github.com/YOUR_GITHUB_USERNAME/deployer-pro">
-          🔗 View repository
+          🔗 View Repository
+        </a>
+      </td>
+      <td width="33%">
+        <h4>🎮 MineClips Automator</h4>
+        <p style="font-size: 13px;">
+          Helper tools for Minecraft content workflows: clipping, templating,  
+          and automation for short-form content.
+        </p>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/mineclips-tools">
+          🔗 View Repository
         </a>
       </td>
     </tr>
   </table>
 </div>
-
----
-
-### 📈 Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0f172a&color=38bdf8&line=22c55e&point=a855f7&area=true&hide_border=true" 
-    alt="Activity Graph" 
-  />
-</p>
-
-> Provided by <a href="https://github.com/anuraghazra/github-readme-stats">Readme Stats</a> & 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph</a>
