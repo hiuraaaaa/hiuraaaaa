@@ -76,7 +76,7 @@
   <!-- TECH STACK -->
   <h3 align="center">🛠 Tech Stack</h3>
 
-</div>
+  </div>
 </div>
 
 <br/>
@@ -200,3 +200,14 @@
     </tr>
   </table>
 </div>
+
+<br/>
+
+<!-- DEV PHILOSOPHY -->
+<h3 align="center">🌙 Dev Philosophy</h3>
+
+<p align="center" style="font-size: 14px; opacity: 0.85;">
+  Build → Break → Fix → Repeat. <br/>
+  If it can be automated, I'll probably try to build it. <br/>
+  Minimal UI, maximum utility.
+</p>
