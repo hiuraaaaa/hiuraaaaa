@@ -1,11 +1,18 @@
-<!-- PROFILE HEADER -->
+<!-- ANIMATED MINECRAFT BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/1Jk0q0u.gif" width="100%" alt="Minecraft Banner"/>
+</p>
+
+<br/>
+
+<!-- TITLE -->
 <div align="center">
 
   <h1>Robin ☕</h1>
 
   <!-- Typing Animation -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&pause=1500&width=500&lines=Full-time+tinkerer;Part-time+wizard;I+create+stuff+that+automates+life;Building+bots%2C+dashboards%2C+and+automation" 
+    src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&pause=1500&width=500&lines=Full-time+tinkerer;Part-time+wizard;I+create+stuff+that+automates+life;Building+bots+%26+automation" 
     alt="Typing SVG" 
   />
 
@@ -26,11 +33,11 @@
 
 <br/>
 
-<!-- GLASSMORPHIC CARD -->
+<!-- GLASS CARD MAIN -->
 <div align="center">
   <div style="
-    max-width: 720px;
-    padding: 24px 28px;
+    max-width: 750px;
+    padding: 26px 30px;
     border-radius: 24px;
     background: rgba(15, 23, 42, 0.75);
     border: 1px solid rgba(148, 163, 184, 0.35);
@@ -38,11 +45,10 @@
     backdrop-filter: blur(14px);
   ">
 
-  <!-- SMALL ANIMATED ICON -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 8px; margin-bottom: 12px;">
+  <!-- Animated Icon -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 14px;">
     <img 
       src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
-      alt="Coding" 
       width="42" 
       style="border-radius: 999px;"
     />
@@ -50,7 +56,7 @@
   </div>
 
   <p align="center" style="font-size: 14px; opacity: 0.9;">
-    I like turning ideas into bots, dashboards, and tiny services that just work.
+    I like building bots, dashboards, and tiny services that just work.
   </p>
 
   <br/>
@@ -61,9 +67,9 @@
   <p align="left">
 
   - Build AI-powered <b>Telegram</b> & <b>WhatsApp</b> bots  
-  - Create automation tools & lightweight REST APIs  
-  - Develop dashboards & control panels on <b>Vercel</b>  
-  - Code & deploy straight from <b>Android</b> (Termux gang)  
+  - Develop automation tools & lightweight REST APIs  
+  - Create dashboards & control panels on <b>Vercel</b>  
+  - Code + deploy directly from <b>Android</b> (Termux gang)  
   - Experiment with AI models, agents, and custom logic  
 
   </p>
@@ -76,11 +82,11 @@
   <p align="center">
     <b>Core:</b> Node.js · JavaScript · Next.js · TailwindCSS  
     <br/>
-    <b>Data:</b> SQLite (better-sqlite3) · Supabase  
+    <b>Database:</b> SQLite (better-sqlite3) · Supabase  
     <br/>
     <b>Bots:</b> Telegraf (Telegram) · Baileys (WhatsApp)  
     <br/>
-    <b>Deploy:</b> Vercel · Pterodactyl · Termux  
+    <b>DevOps:</b> Vercel · Pterodactyl · Termux  
   </p>
 
   <br/>
@@ -90,7 +96,7 @@
 
   <p align="center" style="font-size: 14px; opacity: 0.85;">
     Build → Break → Fix → Repeat. <br/>
-    Minimal code, maximum impact. Always learning, always shipping.
+    Minimal code, maximum impact. Always learning. Always shipping.
   </p>
 
   </div>
